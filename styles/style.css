@@ -1,0 +1,23 @@
+#logoImg {
+  height: 3rem;
+}
+
+#box {
+  margin-top: 300px;
+}
+
+#sliderMove {
+  position: absolute;
+  top: -95%;
+  left: 50%;
+}
+
+#courseImage {
+  height: 17rem;
+  width: 360px;
+}
+
+#courseContent {
+  height: 23rem;
+  width: 360px;
+}
